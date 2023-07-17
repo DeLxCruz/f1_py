@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "namePatient": "SANTIAGO LOPEZ",
+            "date": "05/10/2023",
+            "time": "10:00",
+            "reason": "dermatitis"
+        },
+        {
+            "namePatient": "SEBASTIAN ARCINIEGAS",
+            "date": "12/11/2023",
+            "time": "15:00",
+            "reason": "tos"
+        },
+        {
+            "namePatient": "SANTIAGO GONZALEZ",
+            "date": "02/09/2023",
+            "time": "14:00",
+            "reason": "caida del cabello"
+        },
+        {
+            "namePatient": "SEBASTIAN GOMEZ",
+            "date": "02/09/2023",
+            "time": "09:00",
+            "reason": "dolor ri\u00f1ones"
+        }
+    ]
+}
